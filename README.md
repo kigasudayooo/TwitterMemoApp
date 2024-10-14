@@ -51,6 +51,7 @@
 # 開発階層
 
 ## 1. プロジェクト構造
+```
 app-name/
 ├── app/
 │   ├── src/
@@ -67,6 +68,7 @@ app-name/
 ├── gradle/
 ├── build.gradle
 └── settings.gradle
+```
 
 ## 2. パッケージ構成
 ### 2.1 data/
