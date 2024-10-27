@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwitterMemoApp</string>
+    <string name="add_memo">メモを追加</string>
+    <string name="memo_list">メモ一覧</string>
+    <string name="memo_hint">メモを入力してください</string>
+
+    <string name="save">保存</string>
+    <string name="open">開く</string>
+</resources>
