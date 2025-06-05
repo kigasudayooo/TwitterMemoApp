@@ -23,6 +23,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".TrashActivity"
+            android:exported="false"
+            android:label="@string/trash"
+            android:theme="@style/Theme.TwitterMemoApp"
+            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>

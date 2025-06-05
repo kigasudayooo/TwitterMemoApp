@@ -6,4 +6,11 @@
 
     <string name="save">保存</string>
     <string name="open">開く</string>
+    <string name="trash">ゴミ箱</string>
+    <string name="settings">設定</string>
+    <string name="delete">削除</string>
+    <string name="cancel">キャンセル</string>
+    <string name="restore">復元</string>
+    <string name="permanent_delete">完全削除</string>
+    <string name="default_memo">デフォルトメモ</string>
 </resources>
